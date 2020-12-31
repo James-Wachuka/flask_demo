@@ -1,6 +1,5 @@
-https://img.shields.io/hackage-deps/v/flask
 
-##### flask_demo
+#### flask_demo
 I started on flask basics
 
 use `git clone https://github.com/James-Wachuka/flask_demo` to get the code

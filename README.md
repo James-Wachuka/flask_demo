@@ -29,7 +29,9 @@ working out the database:
  
  `from hello import db`
  
- created tables `db.create_all()`
+ drop the existing database `db.drop_all()`
+ 
+ create tables `db.create_all()`
 
 insert rows `db.session.add_all([admin_role, mod_role, user_role, user_jade, user_kelvin, user_moses])`
 

@@ -1,3 +1,5 @@
+https://img.shields.io/hackage-deps/v/flask
+
 ##### flask_demo
 I started on flask basics
 

@@ -2,7 +2,7 @@
 #### flask_demo
 I started on flask basics
 
-use `git clone https://github.com/James-Wachuka/flask_demo` to get the code
+use `git clone https://github.com/James-Wachuka/flask_demo.git` to get the code
 
 `cd` to `flask_demo` and activate the `venv` using `venv\Scripts\activate`
 

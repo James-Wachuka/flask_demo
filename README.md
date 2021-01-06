@@ -4,7 +4,12 @@ I started on flask basics
 
 use `git clone https://github.com/James-Wachuka/flask_demo.git` to get the code
 
-`cd` to `flask_demo` and activate the `venv` using `venv\Scripts\activate`
+`cd` to `flask_demo`
+
+create virtualenv 
+`python virtualenv env
+`
+and activate the `venv` using `venv\Scripts\activate`
 
 install dependencies:
 
